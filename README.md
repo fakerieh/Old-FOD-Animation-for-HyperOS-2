@@ -3,6 +3,7 @@
 [![Magisk Module](https://img.shields.io/badge/Magisk-Module-green)](https://github.com/topjohnwu/Magisk)
 [![Compatible with HyperOS 2.x](https://img.shields.io/badge/Compatible%20with-HyperOS%202.x-blue)]()
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-lightgrey)](LICENSE)
+[![Download](https://img.shields.io/github/v/release/fakerieh/Old-FOD-Animation-for-HyperOS-2?label=Download&logo=github)](https://github.com/fakerieh/Old-FOD-Animation-for-HyperOS-2/releases/latest)
 
 A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** animation from **MIUI-HyperOS 1** into **HyperOS 2**.
 
@@ -33,7 +34,8 @@ A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** a
 
 ## ⚡ Installation
 
-1. Download the latest `.zip` from the **Releases** tab.  
+1. Download the latest `.zip` from the [**Releases page**](https://github.com/fakerieh/Old-FOD-Animation-for-HyperOS-2/releases).  
+   > 💡 Or just click the **Download badge** above for the newest release.  
 2. Open **Magisk Manager → Modules → Install from storage**.  
 3. Select the downloaded module ZIP.  
 4. Reboot your device.  
@@ -42,7 +44,7 @@ A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** a
 ---
 
 ## ⚠️ Disclaimer
-- Modifies system files—**backup first** to be safe.  
+- Modifies system files — **backup first** to be safe.  
 - Flash at your own risk; I’m not liable for bootloops or issues.
 
 ---
