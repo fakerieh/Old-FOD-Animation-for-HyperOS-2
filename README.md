@@ -52,9 +52,19 @@ A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** a
 ## 🙌 Credits
 - Original **Xiaomi / HyperOS** team for the animations  
 - Early testers and contributors  
-- Special thanks to **@Raphraphan** & **@raffi0gnt** (Telegram)  
+- Special thanks to **@Raphraphan** & **@raffi0gnt** (Telegram)
+  
+[![Join Telegram](https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EmeraldDiscuss)
+
+---
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 📜 License
-This project is released under the **GPL-3.0 License**. See the [LICENSE](LICENSE) file for details.
+#emeraldforever 
+
+<img src="https://raw.githubusercontent.com/fakerieh/Control-Center-Blur-for-emerald-HyperOS2-Light-Version/refs/heads/main/banner/Emerald_JE3_BE3.png" width="100">
+
+**DWYOR**
