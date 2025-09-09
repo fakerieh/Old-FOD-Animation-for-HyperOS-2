@@ -51,7 +51,8 @@ A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** a
 
 ## 🙌 Credits
 - Original **Xiaomi / HyperOS** team for the animations  
-- Early testers and contributors  
+- Early testers and contributors
+- Special thanks for these guys @Raphraphan @raffi0gnt (on tele!)
 
 ---
 
