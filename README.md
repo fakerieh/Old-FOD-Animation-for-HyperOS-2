@@ -11,10 +11,10 @@ A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** a
 
 ## 📸 Preview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10b37210-5434-445e-afa7-221555d14adf" alt="FOD Preview 1" width="120"/>
-  <img src="https://github.com/user-attachments/assets/ab2240b3-1a8d-4a1f-b833-cde1aadcc44d" alt="FOD Preview 2" width="120"/>
-  <img src="https://github.com/user-attachments/assets/5eeff4ff-a96c-45a8-8460-a73e744f5473" alt="FOD Preview 3" width="120"/>
-  <img src="https://github.com/user-attachments/assets/f7d8e6a5-ee94-427c-b935-35ab22867f57" alt="FOD Preview 4" width="120"/>
+  <img src="https://github.com/user-attachments/assets/78600f36-54f9-4527-8268-6a9c188be6fa" alt="FOD Preview 1" width="130"/>
+  <img src="https://github.com/user-attachments/assets/08e8ea63-4d94-40a1-af04-08bd0767e922" alt="FOD Preview 2" width="130"/>
+  <img src="https://github.com/user-attachments/assets/9f11720c-7798-4cde-93c2-6a4bbf2e68b6" alt="FOD Preview 3" width="130"/>
+  <img src="https://github.com/user-attachments/assets/9ee03b8b-28f1-4365-a6b4-82c03a79b729" alt="FOD Preview 4" width="130"/>
 </p>
 
 ---
@@ -51,8 +51,8 @@ A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** a
 
 ## 🙌 Credits
 - Original **Xiaomi / HyperOS** team for the animations  
-- Early testers and contributors
-- Special thanks for these guys @Raphraphan @raffi0gnt (on tele!)
+- Early testers and contributors  
+- Special thanks to **@Raphraphan** & **@raffi0gnt** (Telegram)  
 
 ---
 
