@@ -46,7 +46,7 @@ A **Magisk module** to bring back the classic **Fingerprint On-Display (FOD)** a
 ## ⚠️ Disclaimer
 - Modifies system files — **backup first** to be safe.  
 - Flash at your own risk; I’m not liable for bootloops or issues.
-- Only tested on POCO M6 Pro 4G (emerald)
+- Only tested on POCO M6 Pro 4G (emerald) HyperOS 2.2
 
 ---
 
